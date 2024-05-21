@@ -5,7 +5,6 @@ export const DUMMY_NEWS = [
     title: 'Will AI Replace Humans?',
     image: 'ai-robot.jpg',
     date: '2021-07-01',
-    //this is a test
     content:
       'Since late 2022 AI is on the rise and therefore many people worry whether AI will replace humans. The answer is not that simple. AI is a tool that can be used to automate tasks, but it can also be used to augment human capabilities. The future is not set in stone, but it is clear that AI will play a big role in the future. The question is how we will use it.',
   },
